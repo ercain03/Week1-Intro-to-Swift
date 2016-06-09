@@ -1,4 +1,4 @@
-//: Playground - noun: a place where people can play
+//class 3
 
 import UIKit
 
